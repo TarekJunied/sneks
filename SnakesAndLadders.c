@@ -500,6 +500,7 @@ void clear(int **board, int position, int a)
 }
 int main(void)
 {
+printf("Hello world\n");
     srand(time(NULL));
     int **board;
     int a;
